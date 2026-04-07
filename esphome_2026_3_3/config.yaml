@@ -1,0 +1,12 @@
+name: ESPHome 2026.3.3
+version: "2026.3.3"
+slug: esphome_2026_3_3
+description: ESPHome pinned version 2026.3.3
+startup: services
+boot: auto
+arch:
+  - amd64
+  - aarch64
+  - armv7
+ports:
+  6052/tcp: 6052
