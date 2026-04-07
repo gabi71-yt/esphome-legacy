@@ -1,0 +1,8 @@
+{
+  "name": "ESPHome Legacy",
+  "url": "https://github.com/gabi71-yt/esphome-legacy",
+  "maintainer": "Mikko",
+  "version": "2026.3.3",
+  "slug": "esphome_legacy",
+  "description": "Legacy ESPHome Addon repository"
+}
